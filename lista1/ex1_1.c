@@ -36,6 +36,7 @@ int main(void)
         }
     }
         media/=m;
+        
         printf("A altura do maior aluno é %.2f metros\nA média da altura das alunas é %.2f metros\n",maior,media);
         
     
