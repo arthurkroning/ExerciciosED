@@ -4,7 +4,7 @@ void exibeDivisores (int d);
 
 void exibeDivisores (int d)
 {
-    int div;
+    int div, i;
     for (int i = 1; i <= d; i++)
     {
         div = d % i;
